@@ -56,7 +56,7 @@ colima start
 ```shell
 sudo apt-get install docker make
 ```
-
+.
 ### Building the firmware
 
 1. Execute `make` to build firmware for both halves or `make left` to only build firmware for the left hand side.
